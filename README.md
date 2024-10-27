@@ -22,7 +22,7 @@
 <br></br>
 
 ## 기능 흐름도
-<img src="https://github.com/user-attachments/assets/9779b12d-90b4-4f54-a2be-29f2af602bd9" alt="이미지 설명" width="30%" height="30%">
+![image](https://github.com/user-attachments/assets/5fdecc51-ca4d-4ed2-96e6-8206aba3da02)
 <br></br>
 
 ## 데이터베이스 구조
