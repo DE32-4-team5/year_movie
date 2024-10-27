@@ -22,7 +22,8 @@
 <br></br>
 
 ## 기능 흐름도
-![image](https://github.com/user-attachments/assets/5fdecc51-ca4d-4ed2-96e6-8206aba3da02)
+![image](https://github.com/user-attachments/assets/501e185e-a51a-4a71-a378-14553393a561)
+
 <br></br>
 
 ## 데이터베이스 구조
