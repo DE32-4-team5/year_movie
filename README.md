@@ -11,7 +11,6 @@
 - [사용방법](#사용방법)
 - [시연](#시연)
 - [회고](#회고)
-- [Contributors](#Contributors)
 <br></br>
 
 ## 기술스택
@@ -69,8 +68,4 @@ $ docker compose up -d --force-recreate --build
 ### 개선할 점
 - 제한된 기한 내에도 다양한 기능을 추가할 수 있는 역량을 키워야 한다.
 - Java 언어와 Spring Boot 구조에 대한 추가 학습을 통해 더 많은 기능을 구현할 수 있도록 학습해야 한다.
-<br></br>
-
-## Contributors
-
 <br></br>
