@@ -28,9 +28,18 @@
 
 ## 데이터베이스 구조
 ```sql
-CREATE TABLE LOGIN_TB(
-  <추가할것>
-);
++-------------+-------------+------+-----+---------+----------------+
+| Field       | Type        | Null | Key | Default | Extra          |
++-------------+-------------+------+-----+---------+----------------+
+| ID          | int(11)     | NO   | PRI | NULL    | auto_increment |
+| movieCd     | int(11)     | YES  |     | NULL    |                |
+| movieNm     | varchar(50) | YES  |     | NULL    |                |
+| movieNmEn   | varchar(50) | YES  |     | NULL    |                |
+| openDt      | date        | YES  |     | NULL    |                |
+| repGenreNm  | varchar(10) | YES  |     | NULL    |                |
+| repNationNm | varchar(20) | YES  |     | NULL    |                |
+| peopleNm    | varchar(30) | YES  |     | NULL    |                |
++-------------+-------------+------+-----+---------+----------------+
 ```
 <br></br>
 
